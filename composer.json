@@ -1,5 +1,5 @@
 {
-    "name": "macromindonline/jwt-auth",
+    "name": "macromindonline/laravel-jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
